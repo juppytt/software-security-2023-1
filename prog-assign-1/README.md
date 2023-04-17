@@ -117,6 +117,8 @@ $ vagrant up
 
 # ssh into the VM
 $ vagrant ssh
+$ cd /vagrant
+
 ```
 
 
@@ -124,7 +126,7 @@ We provide a setup script for this assignment. Clone the github repository
 and then execute `setup.sh`.
 
 ```
-$ git clone -b https://github.com/juppytt/software-security-2023-1
+$ git clone https://github.com/juppytt/software-security-2023-1
 $ cd software-security-2023-1/prog-assign-1
 $ ./setup.sh
 ```
