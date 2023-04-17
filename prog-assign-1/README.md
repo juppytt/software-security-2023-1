@@ -1,6 +1,6 @@
 # Programming Assignment #1: Weakening Strong Constraints using LLVM
 
-- **Due Date: 11:59pm, May XX, 2023**
+- **Due Date: 11:59pm, April 27, 2023**
 
 - Software Security
 - [Dept. of Electrical and Computer Engineering](https://ee.snu.ac.kr/en), [Seoul National University](http://snu.ac.kr/index.html)
