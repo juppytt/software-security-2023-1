@@ -153,7 +153,7 @@ $ vagrant ssh
 $ cd /vagrant/software-security-2023-1
 $ git pull
 $ cd prog-assign-2
-$ ./setup.shmm
+$ ./setup.sh
 ```
 
 Once the build is successful, now your system must be ready to run AFL with
